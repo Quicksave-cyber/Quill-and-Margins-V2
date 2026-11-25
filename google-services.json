@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1065701605065",
+    "project_id": "quill-and-pen",
+    "storage_bucket": "quill-and-pen.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065701605065:android:361a9b7f773fd592405718",
+        "android_client_info": {
+          "package_name": "com.quillandmargin.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065701605065-4n5tpu4uc76107pe75dvvt3u5ivdjfud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quillandmargin.app",
+            "certificate_hash": "453c132adf070b8cd7c6c1fa798b71cef6321e23"
+          }
+        },
+        {
+          "client_id": "1065701605065-t8tkvdn5n3mcrjd9haj1ph9nh35k7ala.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADLhiFb7d6NEty4K_a27gybPreLn-LNYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065701605065-t8tkvdn5n3mcrjd9haj1ph9nh35k7ala.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

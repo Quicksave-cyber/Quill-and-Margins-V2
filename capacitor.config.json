@@ -1,0 +1,12 @@
+{
+  "appId": "com.quillandmargin.app",
+  "appName": "Quill & Margin",
+  "webDir": "www",
+  "backgroundColor": "#f3e9d2",
+  "plugins": {
+    "FirebaseAuthentication": {
+      "skipNativeAuth": true,
+      "providers": ["google.com"]
+    }
+  }
+}
